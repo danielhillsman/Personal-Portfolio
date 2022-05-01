@@ -12,4 +12,4 @@ Link to Repo:
 https://github.com/danielhillsman/Personal-Portfolio
 
 Link to live:
-https://github.com/danielhillsman/Personal-Portfolio/Horiseon-webpage
+https://danielhillsman.github.io/Personal-Portfolio/
